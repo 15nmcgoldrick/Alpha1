@@ -38,6 +38,13 @@ while True:
             sleep(1)
             GPIO.output(16, GPIO.LOW)
             
+            
+            
+print("hello from the other side")            
+            
+           
+
+            
 
         elif key == "d":                #steers right
             GPIO.output(18, GPIO.HIGH)
