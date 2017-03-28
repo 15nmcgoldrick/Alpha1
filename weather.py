@@ -16,3 +16,8 @@ while True:
 	humidity = sense.get_humidity()
 	humidity = round(humidity, 1)
 	print(humidity)
+	
+	
+	
+	
+	#testing Dark Sky API @MeteodeepSoftware
